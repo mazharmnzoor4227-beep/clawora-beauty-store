@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "title": "Anua PDRN Hyaluron Capsule Mist | 30ml",
+    "vendor": "Anua",
+    "type": "Face Mist",
+    "price": 2800,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/IMG_1642.webp?v=1788434724",
+    "description": "Anua PDRN Hyaluron Capsule Mist | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 2,
+    "title": "Anua PDRN Hyaluron Glow Moisturizer",
+    "vendor": "Anua",
+    "type": "Face Moisturizer",
+    "price": 4000,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/IMG_1631.webp?v=1788434286",
+    "description": "Anua PDRN Hyaluron Glow Moisturizer — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 3,
+    "title": "Arencia Eraser Shot Glycolic Acid Booster | 30ml",
+    "vendor": "Arencia",
+    "type": "Face Exfoliant",
+    "price": 2600,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/arencia-eraser-shot-glycolic-acid-booster-30ml.jpg?v=1788024865",
+    "description": "Arencia Eraser Shot Glycolic Acid Booster | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 4,
+    "title": "Arencia NAD+ Booster Shot Moisturizer | 30ml",
+    "vendor": "Arencia",
+    "type": "Face Moisturizer",
+    "price": 2600,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/arencia-nad-booster-shot-30ml.jpg?v=1788024859",
+    "description": "Arencia NAD+ Booster Shot Moisturizer | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 5,
+    "title": "Arencia TXA Booster Shot Face & Eye Moisturizer | 30ml",
+    "vendor": "Arencia",
+    "type": "Face Moisturizer",
+    "price": 2600,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/arencia-txa-booster-shot-30ml.jpg?v=1788024873",
+    "description": "Arencia TXA Booster Shot Face & Eye Moisturizer | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 6,
+    "title": "Arencia Vitamin C Booster Shot Moisturizer | 30ml",
+    "vendor": "Arencia",
+    "type": "Face Moisturizer",
+    "price": 2800,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/d842649f8ffa6b72efffb93349fbbc81.png?v=1788433712",
+    "description": "Arencia Vitamin C Booster Shot Moisturizer | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 7,
+    "title": "AXIS-Y Dark Spot Correcting Glow Serum | 50ml",
+    "vendor": "AXIS-Y",
+    "type": "Face Serum",
+    "price": 2200,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/IMG_1654.jpg?v=1788435745",
+    "description": "AXIS-Y Dark Spot Correcting Glow Serum | 50ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 8,
+    "title": "Beauty of Joseon Dynasty Cream",
+    "vendor": "Beauty of Joseon",
+    "type": "Face Moisturizer",
+    "price": 2500,
+    "stock": 0,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/dynasty-cream-1-front.jpg?v=1788118591",
+    "description": "Beauty of Joseon Dynasty Cream — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 9,
+    "title": "Beauty of Joseon Ginseng Essence Water",
+    "vendor": "Beauty of Joseon",
+    "type": "Face Essence",
+    "price": 4000,
+    "stock": 0,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/ginseng-essence-water-1-front.jpg?v=1788118591",
+    "description": "Beauty of Joseon Ginseng Essence Water — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 10,
+    "title": "Beauty of Joseon Glow Deep Serum: Rice + Alpha-Arbutin | 30ml",
+    "vendor": "Beauty of Joseon",
+    "type": "Face Serum",
+    "price": 1850,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/glow-deep-serum-rice-alpha-arbutin-1-front.jpg?v=1788118591",
+    "description": "Beauty of Joseon Glow Deep Serum: Rice + Alpha-Arbutin | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 11,
+    "title": "Beauty of Joseon Ground Rice & Honey Glow Mask | 150ml",
+    "vendor": "Beauty of Joseon",
+    "type": "Face Mask",
+    "price": 3500,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/ground-rice-honey-glow-mask-1-front.jpg?v=1788118591",
+    "description": "Beauty of Joseon Ground Rice & Honey Glow Mask | 150ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 12,
+    "title": "CeraVe Hydrating Mineral Sunscreen Face SPF 50 | 75ml",
+    "vendor": "CeraVe",
+    "type": "Face Sunscreen",
+    "price": 2000,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/cerave-hydrating-mineral-sunscreen-face-spf-50.jpg?v=1788024997",
+    "description": "CeraVe Hydrating Mineral Sunscreen Face SPF 50 | 75ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 13,
+    "title": "COSRX Advanced Snail 92 All In One Cream | 100g",
+    "vendor": "COSRX",
+    "type": "Face Moisturizer",
+    "price": 2400,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/snail_cream_thumbnail.png?v=1788118855",
+    "description": "COSRX Advanced Snail 92 All In One Cream | 100g — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 14,
+    "title": "COSRX Advanced Snail 96 Mucin Power Essence | 100ml",
+    "vendor": "COSRX",
+    "type": "Face Essence",
+    "price": 2600,
+    "stock": 70,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/800x1067____231120_e9c80f69-91e9-4f80-99f4-e62372240f7b.jpg?v=1788118856",
+    "description": "COSRX Advanced Snail 96 Mucin Power Essence | 100ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 15,
+    "title": "COSRX Advanced Snail Mucin Gel Cleanser | 150ml",
+    "vendor": "COSRX",
+    "type": "Facial Cleanser",
+    "price": 3200,
+    "stock": 70,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/advanced-snail-mucin-gel-cleanser-cosrx-official-1_51c996e1-ef98-4b93-903d-c5fe91fd60b1.png?v=1788118856",
+    "description": "COSRX Advanced Snail Mucin Gel Cleanser | 150ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 16,
+    "title": "COSRX Advanced Snail Peptide Eye Cream | 25ml",
+    "vendor": "COSRX",
+    "type": "Eye Cream",
+    "price": 2400,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/advanced-snail-peptide-eye-cream-cosrx-official-1.png?v=1788118856",
+    "description": "COSRX Advanced Snail Peptide Eye Cream | 25ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 17,
+    "title": "d'Alba White Truffle First Spray Serum | 100ml",
+    "vendor": "d'Alba",
+    "type": "Face Mist",
+    "price": 2700,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/dalba-white-truffle-first-spray-serum-100ml.png?v=1788025003",
+    "description": "d'Alba White Truffle First Spray Serum | 100ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 18,
+    "title": "d'Alba White Truffle Vital Spray Serum | 100ml",
+    "vendor": "d'Alba",
+    "type": "Face Mist",
+    "price": 2700,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/dalba-white-truffle-vital-spray-serum-100ml.png?v=1788025009",
+    "description": "d'Alba White Truffle Vital Spray Serum | 100ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 19,
+    "title": "Dove Crushed Pomegranate & Shea Butter Exfoliating Body Polish | 298g",
+    "vendor": "Dove",
+    "type": "Body Scrub",
+    "price": 2700,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/dove-pomegranate-shea-body-polish-298g.png?v=1788025407",
+    "description": "Dove Crushed Pomegranate & Shea Butter Exfoliating Body Polish | 298g — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 20,
+    "title": "Huda Beauty Easy Blur Silicone-Free Smoothing Primer | 30ml",
+    "vendor": "Huda Beauty",
+    "type": "Face Primer",
+    "price": 2700,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/huda-beauty-easy-blur-primer.png?v=1788025403",
+    "description": "Huda Beauty Easy Blur Silicone-Free Smoothing Primer | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 21,
+    "title": "Hyaluronic Acid 2% + B5 Hydrating Serum | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/hyaluronic-acid-2-b5-with-ceramides--1_264bd8ea-103f-4d63-b2e6-7fd3c02e7175.png?v=1788556887",
+    "description": "Hyaluronic Acid 2% + B5 Hydrating Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 22,
+    "title": "Medicube AGE-R Collagen Booster Gel | 100ml",
+    "vendor": "Medicube",
+    "type": "Face Gel",
+    "price": 2800,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/1_9700d64f-5482-4d16-a682-6dc591086a09.jpg?v=1788119920",
+    "description": "Medicube AGE-R Collagen Booster Gel | 100ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 23,
+    "title": "Medicube Deep Vita A Retinol Serum | 30ml",
+    "vendor": "Medicube",
+    "type": "Face Serum",
+    "price": 3200,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/MicrosoftTeams-image_1218.jpg?v=1788119570",
+    "description": "Medicube Deep Vita A Retinol Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 24,
+    "title": "Medicube PDRN Pink Niacinamide Milky Toner | 150ml",
+    "vendor": "Medicube",
+    "type": "Face Toner",
+    "price": 2700,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/PDRN_00_f11333d4-d0fa-4f23-a4b9-34459ec1de07.jpg?v=1788119570",
+    "description": "Medicube PDRN Pink Niacinamide Milky Toner | 150ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 25,
+    "title": "Medicube PDRN Pink Peptide Serum | 30ml",
+    "vendor": "Medicube",
+    "type": "Face Serum",
+    "price": 2400,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/medicube-pdrn-pink-peptide-serum.jpg?v=1788025642",
+    "description": "Medicube PDRN Pink Peptide Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 26,
+    "title": "Medicube Red Acne Succinic Acid Peel | 40g",
+    "vendor": "Medicube",
+    "type": "Face Exfoliant",
+    "price": 2800,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/medicube-red-succinic-acid-peel.jpg?v=1788025647",
+    "description": "Medicube Red Acne Succinic Acid Peel | 40g — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 27,
+    "title": "Medicube Zero Pore Blackhead Mud Mask | 100g",
+    "vendor": "Medicube",
+    "type": "Face Mask",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/medicube-zero-pore-blackhead-mud-mask.jpg?v=1788025651",
+    "description": "Medicube Zero Pore Blackhead Mud Mask | 100g — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 28,
+    "title": "NARS Liquid Lipstick Set | 4-Piece Collection",
+    "vendor": "NARS",
+    "type": "Liquid Lipstick Set",
+    "price": 3000,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/Requesting_AI_image_generation_p__202608222325.jpg?v=1787423320",
+    "description": "NARS Liquid Lipstick Set | 4-Piece Collection — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 29,
+    "title": "Olaplex Hair Rescue Kit | Hair Repair & Bond Care Set",
+    "vendor": "Olaplex",
+    "type": "Hair Care Set",
+    "price": 3600,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/Editing_image_white_background_202608230226.jpg?v=1787506227",
+    "description": "Olaplex Hair Rescue Kit | Hair Repair & Bond Care Set — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 30,
+    "title": "SHEGLAM Color Bloom Liquid Blush Collection | 6-Piece Set",
+    "vendor": "SHEGLAM",
+    "type": "Liquid Blush",
+    "price": 6500,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/d725c5a9-739a-4d59-a39e-7842f6f0e5e1_3_2.jpg?v=1787336300",
+    "description": "SHEGLAM Color Bloom Liquid Blush Collection | 6-Piece Set — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 31,
+    "title": "SKIN1004 Madagascar Centella Tone Brightening Capsule Ampoule | 100ml",
+    "vendor": "SKIN1004",
+    "type": "Face Ampoule",
+    "price": 2500,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/Edit_image_white_background_202608230236.jpg?v=1787505556",
+    "description": "SKIN1004 Madagascar Centella Tone Brightening Capsule Ampoule | 100ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 32,
+    "title": "The Ordinary Alpha Arbutin 2% + HA Brightening Serum | 30ml & 60ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/alpha-arbutin-2-ha-1_46629313-ddec-4b85-9636-69121a14c25d.jpg?v=1788556888",
+    "description": "The Ordinary Alpha Arbutin 2% + HA Brightening Serum | 30ml & 60ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 33,
+    "title": "The Ordinary Ascorbyl Glucoside Solution 12% | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/ascorbyl-glucoside-solution-12--1.png?v=1788556692",
+    "description": "The Ordinary Ascorbyl Glucoside Solution 12% | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 34,
+    "title": "The Ordinary Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/ascorbyl-tetraisopalmitate-solution-20-in-vitamin-f-1.png?v=1788556728",
+    "description": "The Ordinary Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 35,
+    "title": "The Ordinary Lactic Acid 10% + HA | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/lactic-acid-10-ha-1.png?v=1788556675",
+    "description": "The Ordinary Lactic Acid 10% + HA | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 36,
+    "title": "The Ordinary Lactic Acid 5% + HA | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/lactic-acid-5-ha-1.png?v=1788556654",
+    "description": "The Ordinary Lactic Acid 5% + HA | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 37,
+    "title": "The Ordinary Multi-Antioxidant Radiance Serum | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/multi-antioxidant-radiance-serum-1.png?v=1788556460",
+    "description": "The Ordinary Multi-Antioxidant Radiance Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 38,
+    "title": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/multi-peptide-copper-peptides-1-serum-1.png?v=1788556451",
+    "description": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 39,
+    "title": "The Ordinary Multi-Peptide + HA Serum | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/multi-peptide-ha-serum-1_bd546997-649b-4d74-900d-d52a8ef5d191.png?v=1788556429",
+    "description": "The Ordinary Multi-Peptide + HA Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 40,
+    "title": "The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum | 30ml & 60ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 200,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/rdn-niacinamide-10pct-zinc-1pct-30ml.png?v=1788087736",
+    "description": "The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum | 30ml & 60ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 41,
+    "title": "The Ordinary Retinal 0.2% Emulsion | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/retinal-0-2-emulsion-1.png?v=1788556479",
+    "description": "The Ordinary Retinal 0.2% Emulsion | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 42,
+    "title": "The Ordinary Retinol 0.2% in Squalane | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/retinol-0-2-in-squalane-1.png?v=1788556523",
+    "description": "The Ordinary Retinol 0.2% in Squalane | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 43,
+    "title": "The Ordinary Retinol 0.5% in Squalane | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/retinol-0-5-in-squalane-1.png?v=1788556540",
+    "description": "The Ordinary Retinol 0.5% in Squalane | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 44,
+    "title": "The Ordinary Retinol 1% in Squalane | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/retinol-1-in-squalane-1.png?v=1788556558",
+    "description": "The Ordinary Retinol 1% in Squalane | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 45,
+    "title": "The Ordinary Salicylic Acid 2% Anhydrous Solution | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/salicylic-acid-2-anhydrous-solution-1.png?v=1788556603",
+    "description": "The Ordinary Salicylic Acid 2% Anhydrous Solution | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 46,
+    "title": "The Ordinary Salicylic Acid 2% Solution | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/salicylic-acid-2-solution-1.png?v=1788556578",
+    "description": "The Ordinary Salicylic Acid 2% Solution | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 47,
+    "title": "The Ordinary Soothing & Barrier Support Serum | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/soothing-barrier-support-serum-1_a103968f-027f-4f58-af4c-b0acbba31091.png?v=1788556890",
+    "description": "The Ordinary Soothing & Barrier Support Serum | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  },
+  {
+    "id": 48,
+    "title": "The Ordinary Vitamin C Suspension 23% + HA Spheres 2% | 30ml",
+    "vendor": "The Ordinary",
+    "type": "Face Serum",
+    "price": 1900,
+    "stock": 100,
+    "image": "https://cdn.shopify.com/s/files/1/1024/7087/7476/files/vitamin-c-suspension-23-ha-spheres-2--1.png?v=1788556714",
+    "description": "The Ordinary Vitamin C Suspension 23% + HA Spheres 2% | 30ml — curated by Clawora Beauty. See product packaging and your latest store listing for full usage details."
+  }
+]
