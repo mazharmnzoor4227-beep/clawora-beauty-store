@@ -1,0 +1,46 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Clawora Beauty</title><link rel="stylesheet" href="styles.css"></head><body>
+
+<div class="announcement">CURATED BEAUTY • DELIVERY ACROSS PAKISTAN • CASH ON DELIVERY</div>
+<header class="siteHeader"><div class="wrap headerInner">
+  <button class="menuBtn mobileOnly" onclick="openMenu()">☰</button>
+  <nav class="desktopNav"><a href="index.html">Home</a><a href="shop.html">Shop All</a><a href="brands.html">Brands</a><a href="contact.html">Contact Us</a></nav>
+  <a class="headerBrand" href="index.html">CLAWORA BEAUTY</a>
+  <div class="headerActions"><button class="iconBtn" onclick="location.href='shop.html'">⌕</button><button class="iconBtn" onclick="openCart()">Bag <span id="cartCount">0</span></button></div>
+</div></header>
+<div id="menuDrawer" class="drawer"><div class="drawerVeil" onclick="closeMenu()"></div><aside class="drawerPanel">
+  <div class="drawerTop"><div class="drawerBrand">CLAWORA BEAUTY</div><button class="iconBtn" onclick="closeMenu()">×</button></div>
+  <nav class="drawerNav"><a href="index.html">Home</a><a href="shop.html">Shop All</a><a href="shop.html?category=Skin%20Care">Skin Care</a><a href="shop.html?category=Hair%20Care">Hair Care</a><a href="shop.html?category=Makeup">Makeup</a><a href="brands.html">Brands</a><a href="contact.html">Contact Us</a></nav>
+  <div class="drawerFoot">Premium multi-brand beauty storefront for Pakistan.</div>
+</aside></div>
+
+<main class="wrap">
+<section class="hero"><div class="heroShell"><div class="heroCopy"><div class="eyebrow">Clawora Beauty • Pakistan</div><h1>Beauty, edited with intention.</h1><p>A premium destination for skincare, makeup and hair care — built as a proper multi-page ecommerce storefront.</p><div class="ctaRow"><a class="btn btnLight" href="shop.html">Shop All</a><a class="btn btnOutline" href="brands.html">Explore Brands</a></div></div><div class="heroVisual"><img src="https://cdn.shopify.com/s/files/1/1024/7087/7476/files/rdn-niacinamide-10pct-zinc-1pct-30ml.png?v=1788087736" alt="Clawora Beauty"></div></div></section>
+<section class="trust"><div><b>Authentic Products</b><span>Curated multi-brand beauty</span></div><div><b>Cash on Delivery</b><span>Available across Pakistan</span></div><div><b>WhatsApp Ordering</b><span>Fast and simple checkout</span></div><div><b>Customer Support</b><span>Reach us from Contact Us</span></div></section>
+
+<div class="sectionHead"><div><h2>Shop by Category</h2><p>Choose the routine you are shopping for.</p></div></div>
+<section class="categoryGrid">
+<a class="categoryCard" href="shop.html?category=Skin%20Care"><div><h3>Skin Care</h3><p>Serums, moisturizers, cleansers, masks and more.</p></div></a>
+<a class="categoryCard" href="shop.html?category=Hair%20Care"><div><h3>Hair Care</h3><p>Repair, bond care and treatment essentials.</p></div></a>
+<a class="categoryCard" href="shop.html?category=Makeup"><div><h3>Makeup</h3><p>Blush, lips, primer and statement beauty.</p></div></a>
+</section>
+
+<div class="sectionHead"><div><h2>Featured Products</h2><p>Selected from your current catalog.</p></div><a class="viewAll" href="shop.html">View all products</a></div>
+<div id="featuredProducts" class="productGrid"></div>
+
+<section class="editorialSplit"><div class="editorialBox"><div><div class="eyebrow" style="color:#6d4358">K-Beauty Edit</div><h3>High-performance skincare, calmer presentation.</h3><p>Anua, Beauty of Joseon, COSRX, Medicube and more — organized in a clean editorial experience.</p></div></div><div class="editorialBox"><div><div class="eyebrow">Clinical Essentials</div><h3>Simple formulas. Clear routines.</h3><p>Shop focused skincare from brands like The Ordinary in a premium, minimal storefront.</p></div></div></section>
+</main>
+
+<footer><div class="wrap"><div class="footerGrid">
+<div><h3>CLAWORA BEAUTY</h3><p>Curated skincare, makeup and hair care for customers across Pakistan.</p></div>
+<div><b>Shop</b><p><a href="shop.html">Shop All</a><br><a href="shop.html?category=Skin%20Care">Skin Care</a><br><a href="shop.html?category=Makeup">Makeup</a><br><a href="shop.html?category=Hair%20Care">Hair Care</a></p></div>
+<div><b>Information</b><p><a href="brands.html">Brands</a><br><a href="contact.html">Contact Us</a><br><a href="catalog-manager.html">Catalog Manager</a></p></div>
+<div><b>Ordering</b><p>Cash on Delivery<br>WhatsApp Ordering<br>Delivery across Pakistan</p></div>
+</div><div class="copyright">© 2026 Clawora Beauty.</div></div></footer>
+
+<div id="cartDrawer" class="cartDrawer"><div class="cartVeil" onclick="closeCart()"></div><aside class="cartPanel">
+<div style="display:flex;justify-content:space-between;align-items:center"><h3>Your Bag</h3><button class="iconBtn" onclick="closeCart()">×</button></div>
+<div id="cartList" class="cartList"></div>
+<div class="cartBottom"><div style="display:flex;justify-content:space-between"><b>Total</b><b id="cartTotal">PKR 0</b></div><button class="btn btnDark" onclick="checkout()">Order on WhatsApp</button></div>
+</aside></div>
+
+<script src="store-config.js"></script><script src="app.js"></script><script>loadFeatured();</script></body></html>

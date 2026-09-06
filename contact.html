@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Contact Us — Clawora Beauty</title><link rel="stylesheet" href="styles.css"></head><body>
+<div class="announcement">CURATED BEAUTY • DELIVERY ACROSS PAKISTAN • CASH ON DELIVERY</div>
+<header class="siteHeader"><div class="wrap headerInner">
+  <button class="menuBtn mobileOnly" onclick="openMenu()">☰</button>
+  <nav class="desktopNav"><a href="index.html">Home</a><a href="shop.html">Shop All</a><a href="brands.html">Brands</a><a href="contact.html">Contact Us</a></nav>
+  <a class="headerBrand" href="index.html">CLAWORA BEAUTY</a>
+  <div class="headerActions"><button class="iconBtn" onclick="location.href='shop.html'">⌕</button><button class="iconBtn" onclick="openCart()">Bag <span id="cartCount">0</span></button></div>
+</div></header>
+<div id="menuDrawer" class="drawer"><div class="drawerVeil" onclick="closeMenu()"></div><aside class="drawerPanel">
+  <div class="drawerTop"><div class="drawerBrand">CLAWORA BEAUTY</div><button class="iconBtn" onclick="closeMenu()">×</button></div>
+  <nav class="drawerNav"><a href="index.html">Home</a><a href="shop.html">Shop All</a><a href="shop.html?category=Skin%20Care">Skin Care</a><a href="shop.html?category=Hair%20Care">Hair Care</a><a href="shop.html?category=Makeup">Makeup</a><a href="brands.html">Brands</a><a href="contact.html">Contact Us</a></nav>
+  <div class="drawerFoot">Premium multi-brand beauty storefront for Pakistan.</div>
+</aside></div>
+<main class="wrap"><section class="pageHero"><h1>Contact Us</h1><p>Need help with a product or order? Reach Clawora Beauty directly on WhatsApp.</p></section><section class="contactGrid"><div class="contactCard"><h2>We’re here to help.</h2><p>For product questions, availability, order confirmation or delivery support, contact us on WhatsApp.</p><button class="btn btnDark" onclick="openSupportWhatsApp()">Chat on WhatsApp</button></div><div class="formCard"><h2>Quick message</h2><form onsubmit="sendContact(event)"><input id="cName" placeholder="Your name" required><input id="cPhone" placeholder="Phone number"><textarea id="cMsg" placeholder="How can we help?" required></textarea><button class="btn btnDark" type="submit">Send on WhatsApp</button></form></div></section></main>
+<footer><div class="wrap"><div class="footerGrid">
+<div><h3>CLAWORA BEAUTY</h3><p>Curated skincare, makeup and hair care for customers across Pakistan.</p></div>
+<div><b>Shop</b><p><a href="shop.html">Shop All</a><br><a href="shop.html?category=Skin%20Care">Skin Care</a><br><a href="shop.html?category=Makeup">Makeup</a><br><a href="shop.html?category=Hair%20Care">Hair Care</a></p></div>
+<div><b>Information</b><p><a href="brands.html">Brands</a><br><a href="contact.html">Contact Us</a><br><a href="catalog-manager.html">Catalog Manager</a></p></div>
+<div><b>Ordering</b><p>Cash on Delivery<br>WhatsApp Ordering<br>Delivery across Pakistan</p></div>
+</div><div class="copyright">© 2026 Clawora Beauty.</div></div></footer>
+
+<div id="cartDrawer" class="cartDrawer"><div class="cartVeil" onclick="closeCart()"></div><aside class="cartPanel">
+<div style="display:flex;justify-content:space-between;align-items:center"><h3>Your Bag</h3><button class="iconBtn" onclick="closeCart()">×</button></div>
+<div id="cartList" class="cartList"></div>
+<div class="cartBottom"><div style="display:flex;justify-content:space-between"><b>Total</b><b id="cartTotal">PKR 0</b></div><button class="btn btnDark" onclick="checkout()">Order on WhatsApp</button></div>
+</aside></div>
+<script src="store-config.js"></script><script src="app.js"></script></body></html>
